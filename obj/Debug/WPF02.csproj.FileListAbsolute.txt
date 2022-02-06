@@ -1,0 +1,16 @@
+C:\Users\uer\source\repos\WPF02\WPF02\bin\Debug\WPF02.exe.config
+C:\Users\uer\source\repos\WPF02\WPF02\bin\Debug\WPF02.exe
+C:\Users\uer\source\repos\WPF02\WPF02\bin\Debug\WPF02.pdb
+C:\Users\uer\source\repos\WPF02\WPF02\obj\Debug\WPF02.csproj.AssemblyReference.cache
+C:\Users\uer\source\repos\WPF02\WPF02\obj\Debug\WPF02.csproj.SuggestedBindingRedirects.cache
+C:\Users\uer\source\repos\WPF02\WPF02\obj\Debug\MainWindow.g.cs
+C:\Users\uer\source\repos\WPF02\WPF02\obj\Debug\App.g.cs
+C:\Users\uer\source\repos\WPF02\WPF02\obj\Debug\WPF02_MarkupCompile.cache
+C:\Users\uer\source\repos\WPF02\WPF02\obj\Debug\WPF02_MarkupCompile.lref
+C:\Users\uer\source\repos\WPF02\WPF02\obj\Debug\MainWindow.baml
+C:\Users\uer\source\repos\WPF02\WPF02\obj\Debug\WPF02.g.resources
+C:\Users\uer\source\repos\WPF02\WPF02\obj\Debug\WPF02.Properties.Resources.resources
+C:\Users\uer\source\repos\WPF02\WPF02\obj\Debug\WPF02.csproj.GenerateResource.cache
+C:\Users\uer\source\repos\WPF02\WPF02\obj\Debug\WPF02.csproj.CoreCompileInputs.cache
+C:\Users\uer\source\repos\WPF02\WPF02\obj\Debug\WPF02.exe
+C:\Users\uer\source\repos\WPF02\WPF02\obj\Debug\WPF02.pdb
